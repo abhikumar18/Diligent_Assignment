@@ -2,7 +2,7 @@ import React from 'react';
 import { svgIcons } from '../assets/Icons/svgIcons';
 import Acl1 from '../assets/images/acl1.png';
 import Acl2 from '../assets/images/acl2.png';
-import Acl3 from '../assets/images/acl3.png';
+// import Acl3 from '../assets/images/acl3.png';
 
 const DataDriven = () => {
   return (
@@ -77,7 +77,7 @@ const DataDriven = () => {
           }}
         />
         <img
-          src={Acl3}
+          // src={Acl3}
           alt=""
           style={{
             position: 'absolute',
